@@ -1,6 +1,6 @@
 # show-ip
 
-Shows the IP address associated with a given host name.
+Shows the IP addresses associated with a given host name.
 
 ## Example
 

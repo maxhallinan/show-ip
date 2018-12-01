@@ -1,6 +1,6 @@
 name:                show-ip
 version:             0.1.0.0
-description:         Show the IP address for a given host name
+description:         Show the IP addresses for a given host name
 homepage:            https://github.com/maxhallinan/show-ip#readme
 license:             BSD3
 license-file:        LICENSE
