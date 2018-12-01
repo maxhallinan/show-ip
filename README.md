@@ -19,4 +19,4 @@ show-ip HOST_NAME
 
 `HOST_NAME`
 
-Any valid internet hostname.
+Any valid internet host name.
