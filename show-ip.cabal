@@ -1,11 +1,10 @@
-name:                showip
+name:                show-ip
 version:             0.1.0.0
--- synopsis:
--- description:
-homepage:            https://github.com/githubuser/showip#readme
+description:         Show the IP address for a given host name
+homepage:            https://github.com/maxhallinan/show-ip#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              Max Hallinan
 maintainer:          example@example.com
 copyright:           2018 Author name here
 category:            Web
@@ -13,7 +12,7 @@ build-type:          Simple
 cabal-version:       >=1.10
 extra-source-files:  README.md
 
-executable showip
+executable show-ip
   hs-source-dirs:      src
   main-is:             Main.hs
   default-language:    Haskell2010
